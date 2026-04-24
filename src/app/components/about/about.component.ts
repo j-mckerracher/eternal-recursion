@@ -20,15 +20,17 @@ import { Component, AfterViewInit, ElementRef, ViewChildren, QueryList } from '@
               <p>
                 At <strong>Mayo Clinic</strong>, I engineer a specimen management platform
                 using Angular, C#, and MongoDB on GCP — designing collaborative locking systems,
-                .NET libraries, and leading security compliance across a three-team monorepo.
+                .NET libraries and AI orchestration workflows.
               </p>
               <p>
                 Concurrently at <strong>Purdue University's DCSL</strong>, I analyze over
                 20 million HPC jobs from the FRESCO dataset, producing peer-reviewed research
-                on resource utilization and system dependability.
-              </p>
-              <p class="bio-interests">
-                Outside the terminal — I'm reading, gardening, or on a skateboard.
+                on resource utilization and system dependability. My current research applies
+                regression modeling, propensity-based cohort matching, unsupervised domain
+                adaptation, and few-shot calibration to investigate whether predictive models
+                generalize across heterogeneous computing environments — uncovering the
+                measurement, covariate, and distributional shifts that determine when and why
+                machine learning models fail in production HPC systems.
               </p>
             </div>
 
